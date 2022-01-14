@@ -1,0 +1,63 @@
+body {
+	background-image: url("Background.png");
+	}
+	header {
+	border: 5px outset rgb(150,150,150);
+	height: 100px;
+	width: 185px;
+	}
+	a.top {
+	border: 5px outset rgb(150,150,150);
+	height: 50px;
+	width: 150px;
+	position: absolute;
+	top: 8px;
+	left: 1180px;
+	}
+	a.bottom {
+	border: 5px outset rgb(150,150,150);
+	height: 50px;
+	width: 150px;
+	position: absolute;
+	top: 600; 
+	left: 1180px;
+	}
+	img.Asteroid {
+	border: 5px outset rgb(150,150,150);
+	height: 200px; 
+	width: 220px;
+	position: absolute;
+	top: 150px;
+	left: 8px;
+	}
+	img.Kuiper {
+	border: 5px outset rgb(150,150,150);
+	height: 200px; 
+	width: 220px;
+	position: absolute;
+	top: 375;
+	left: 8px;
+	}
+	p.Asteroid{
+	border: 5px outset rgb(150,150,150);
+	color: rgb(255,255,0);
+	height: 200px;
+	width: 1080px;
+	position: absolute;
+	left: 250px;
+	top: 134;
+	} 
+	p.Kuiper{
+	border: 5px outset rgb(150,150,150);
+	color: rgb(255,255,0);
+	height: 199px;
+	width: 1080px;
+	position: absolute;
+	left: 250px;
+	top: 360;
+	}
+	nav.link{
+	left: 8px;
+	top: 600px; 
+	position: absolute;
+	}
